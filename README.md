@@ -7,7 +7,7 @@ This "behavior" provides soft delete support for [Propel2](https://propelorm.org
 Just require this behavior with Composer.  Propel supports a specialized Composer `type` known as a `propel-behavior`.
 
 ```bash
-composer require rentpost/propel2-soft-delete-behavior
+composer require spryker-projects/propel2-soft-delete-behavior
 ```
 
 ## Usage
