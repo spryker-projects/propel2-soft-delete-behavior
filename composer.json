@@ -2,7 +2,7 @@
   "name": "spryker-demo/propel2-soft-delete-behavior",
   "type": "propel-behavior",
   "description": "Propel2 soft_delete behavior",
-  "homepage": "https://github.com/rentpost/propel2-soft-delete-behavior",
+  "homepage": "https://github.com/spryker-projects/propel2-soft-delete-behavior",
   "license": "MIT",
   "authors": [
       {
@@ -10,15 +10,9 @@
           "email": "jacob@rentpost.com"
       }
   ],
-  "repositories": [
-    {
-      "type": "git",
-      "url":  "git@github.com:rentpost/Propel2.git"
-    }
-  ],
   "require": {
       "php": ">=7.2.0",
-      "rentpost/propel": "dev-master"
+      "spryker/propel": "^3.38.0"
   },
   "autoload": {
       "psr-4": {
